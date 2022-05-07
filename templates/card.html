@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% set sp = items|random() %}
+
+<div align="middle">
+<h3>{{ sp["name"] }}</h3>
+<img width="25%" height="25%" src="static/img/person.jpg">
+<p>{{ sp["profession"]|sort|join(", ") }}</p>
+</div>
+{% endblock %}

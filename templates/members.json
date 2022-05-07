@@ -1,0 +1,46 @@
+[
+  {
+    "surname": "Watny",
+    "name": "Mark",
+    "education": "выше среднего2",
+    "profession": [
+      "инженер-исследователь",
+      "пилот",
+      "строитель",
+      "экзобиолог"
+    ],
+    "sex": "male",
+    "motivation": "Всегда мечтал застрять на Марсе!1",
+    "ready": 1,
+    "image": "/static/img/person"
+  },
+  {
+    "surname": "Brown",
+    "name": "Steve",
+    "education": "выше среднего2",
+    "profession": [
+      "инженер-исследователь",
+      "врач",
+      "климатолог",
+      "штурман"
+    ],
+    "sex": "male",
+    "motivation": "Всегда мечтал застрять на Марсе!2",
+    "ready": 1,
+    "image": "/static/img/person"
+  },
+  {
+    "surname": "White",
+    "name": "Jhon",
+    "education": "выше среднего3",
+    "profession": [
+      "врач",
+      "климатолог",
+      "штурман"
+    ],
+    "sex": "male",
+    "motivation": "Всегда мечтал застрять на Марсе!3",
+    "ready": 1,
+    "image": "/static/img/person"
+  }
+]
